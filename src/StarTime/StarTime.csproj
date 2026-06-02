@@ -5,6 +5,14 @@
         <LangVersion>latest</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>StarTime</Title>
+        <Authors>BlueInstituteOfMeasurements</Authors>
+        <Description>Library for managing temporary systems for usage within other projects.</Description>
+        <Copyright>@ 2016 ShadowGamingB5</Copyright>
+        <PackageProjectUrl>https://github.com/ShadowGamingB5/StarTime</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/ShadowGamingB5/StarTime</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <AssemblyVersion>0.0.1</AssemblyVersion>
     </PropertyGroup>
 
 </Project>
