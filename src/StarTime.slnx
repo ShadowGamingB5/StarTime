@@ -6,5 +6,11 @@
     <File Path="../README.md" />
     <File Path=".editorconfig" />
   </Folder>
+  <Folder Name="/SolutionItems/dev-docs/">
+    <File Path="../dev-docs/readme.md" />
+  </Folder>
+  <Folder Name="/SolutionItems/docs/">
+    <File Path="../docs/index.md" />
+  </Folder>
   <Project Path="StarTime/StarTime.csproj" />
 </Solution>
